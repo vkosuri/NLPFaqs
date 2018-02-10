@@ -3,7 +3,7 @@ Many new graduates are interested on Natural Language Processing, I think this d
 
 NLP Topics
 
-1. [Natural Language processing](./docs/natural-language-processing.md)
+1. [Natural Language processing](./docs/nlp.md)
 2. [Text classification](./docs/text-classification.md)
 3. [Text similarities](./docs/text-similarities.md)
 4. [Research papers](research-papers)
