@@ -1,17 +1,20 @@
 
 ## Natural language processing (NLP)
 
-Natural language processing (NLP) is a field of computer science, artificial intelligence and computational linguistics concerned with the interactions between computers and human (natural) languages, and, in particular, concerned with programming computers to fruitfully process large natural language corpora. Challenges in natural language processing frequently involve natural language understanding, natural language generation (frequently from formal, machine-readable logical forms), connecting language and machine perception, managing human-computer dialog systems, or some combination thereof.
+Natural language processing (NLP) is a field of computer science falls under [cognitive science](./cognitive-science.md), artificial intelligence and computational linguistics concerned with the interactions between computers and human (natural) languages, and, in particular, concerned with programming computers to fruitfully process large natural language corpora. 
 
-## NLP Table words
+Challenges in natural language processing frequently involve 
 
-| CoNLL        | Copora     | Chunking |
-|--------------|------------|----------|
-| Lemmatizing  | Stop words | tf–idf   |
-| Tokenization |            |          |
+* Natural language understanding, 
+
+* Natural language generation (frequently from formal, machine-readable logical forms), 
+
+* Connecting language and machine perception, 
+
+* Managing human-computer dialog systems, or some combination thereof.
 
 
-## NLP Jargons
+### CoNLL
 
 [CoNLL](http://www.conll.org/), the Conference on Natural Language Learning, is SIGNLL's(Special Interest Group on Natural Language Learning) yearly meeting.
 
