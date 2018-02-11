@@ -36,12 +36,15 @@ NLP Topics
 ## Frameworks
 
 https://github.com/facebookresearch/fastText
+
 http://pytorch.org/
+
 https://github.com/RaRe-Technologies/gensim
+
 
 ## Links
 
-* Paraphrase generation -  https://scholar.google.co.il/scholar?as_sdt=0%2C5&hl=en&q=%22paraphrase+generation%22+&scisbd=1
+* [Paraphrase generation](https://scholar.google.co.il/scholar?as_sdt=0%2C5&hl=en&q=%22paraphrase+generation%22+&scisbd=1)
 
 > Contributions are welcome.
 
