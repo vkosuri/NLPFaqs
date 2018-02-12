@@ -18,27 +18,43 @@ NLP Topics
 
 ## Popular Algorithms
 
-| Algorithm                                                                          | Category            |
-|------------------------------------------------------------------------------------|---------------------|
-| [Levenshtein distance](https://en.wikipedia.org/wiki/Levenshtein_distance)         | Text similarities   |
-| [Jaccard similarity](https://en.wikipedia.org/wiki/Jaccard_index)                  | Text similarities   |
-| [Cosine similarity](https://www.youtube.com/watch?v=C3Jt14Se9Cg&feature=youtu.be)  | Text similarities   |
-| [Global Vectors for Word Representation](https://nlp.stanford.edu/projects/glove/) | Text similarities   |
-| [word2vec](https://code.google.com/archive/p/word2vec/)                            | Text similarities   |
-| Support Vector Machines (SVM)                                                      | Text classification |
-| Naive Bayes (see also multinomial NB)                                              | Text classification |
-| Neural Networks                                                                    | Text classification |
-| Decision Trees                                                                     | Text classification |
-| Random Forests                                                                     | Text classification |
-| Boosting and Bagging algorithms                                                    | Text classification |
-| Supervised Latent Dirichlet Allocation (SLDA)                                      | Text classification |
+| Algorithm                                                                                                                                                                                          | Category            |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------|
+| [Levenshtein distance](https://en.wikipedia.org/wiki/Levenshtein_distance)                                                                                                                         | Text similarities   |
+| [Jaccard similarity](https://en.wikipedia.org/wiki/Jaccard_index)                                                                                                                                  | Text similarities   |
+| [Cosine similarity](https://www.youtube.com/watch?v=C3Jt14Se9Cg&feature=youtu.be)                                                                                                                  | Text similarities   |
+| [Global Vectors for Word Representation](https://nlp.stanford.edu/projects/glove/)                                                                                                                 | Text similarities   |
+| [word2vec](https://code.google.com/archive/p/word2vec/)                                                                                                                                            | Text similarities   |
+| Support Vector Machines (SVM)                                                                                                                                                                      | Text classification |
+| [Naive Bayes](https://en.wikipedia.org/wiki/Naive_Bayes_classifier)                                                                                                                                | Text classification |
+| [Neural Networks](https://www.doc.ic.ac.uk/~nd/surprise_96/journal/vol4/cs11/report.html)                                                                                                          | Text classification |
+| [Decision Trees](https://www.analyticsvidhya.com/blog/2016/04/complete-tutorial-tree-based-modeling-scratch-in-python/), [Lucid Page](https://www.lucidchart.com/pages/decision-tree)              | Text classification |
+| [Random Forests](https://www.analyticsvidhya.com/blog/2014/06/introduction-random-forest-simplified/)                                                                                              | Text classification |
+| [Boosting and Bagging algorithms](http://dni-institute.in/blogs/bagging-algorithm-concepts-with-example/), [Differnce](https://quantdare.com/what-is-the-difference-between-bagging-and-boosting/) | Text classification |
+| Supervised Latent Dirichlet Allocation (SLDA), [Source](http://www.cs.cmu.edu/~chongw/slda/)                                                                                                       | Text classification |
 
 ## Frameworks
 
-[fastText](https://github.com/facebookresearch/fastText) - Facebook - C++ | [PyTorch](http://pytorch.org/) - Facebook - Python| [GenSim](https://github.com/RaRe-Technologies/gensim) - RaRe - Python
+| Framework                                                | Organisation | License     | Language |
+|----------------------------------------------------------|--------------|-------------|----------|
+| [fastText](https://github.com/facebookresearch/fastText) | Facebook     | BSD+Patents | C++      |
+| [PyTorch](http://pytorch.org/)                           | Facebook     | BSD+Patents | Python   |
+| [GenSim](https://github.com/RaRe-Technologies/gensim)    | RaRe         | LGPL2.1     | Python   |
+| [SpaCy](https://github.com/explosion/spaCy)              | explosion    | MIT         | Python   |
+| [NLTK](https://github.com/nltk/nltk)                     | NLTK         | Apache 2.0  | Python   |
+| [TextBlob](https://github.com/sloria/TextBlob)           |              | MIT         | Python   |
+| [RASA NLU](https://github.com/RasaHQ/rasa_nlu)           |              | Apache 2.0  | Python   |
 
-[Tensorflow](https://github.com/tensorflow/tensorflow) - Google - C++, Python | [ParlAI](https://github.com/facebookresearch/ParlAI) - Facebook - Python | [StarSpace](https://github.com/facebookresearch/StarSpace) - Facebook - C++
 
+## Lectures
+
+* https://github.com/oxford-cs-deepnlp-2017/lectures
+
+* https://github.com/chiphuyen/stanford-tensorflow-tutorials
+
+* https://github.com/keon/awesome-nlp
+
+* https://github.com/Kyubyong/nlp_tasks
 
 ## Links
 
