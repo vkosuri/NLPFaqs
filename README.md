@@ -36,6 +36,7 @@ NLP Topics
 ## Frameworks
 
 [fastText](https://github.com/facebookresearch/fastText) - Facebook - C++ | [PyTorch](http://pytorch.org/) - Facebook - Python| [GenSim](https://github.com/RaRe-Technologies/gensim) - RaRe - Python
+
 [Tensorflow](https://github.com/tensorflow/tensorflow) - Google - C++, Python | [ParlAI](https://github.com/facebookresearch/ParlAI) - Facebook - Python | [StarSpace](https://github.com/facebookresearch/StarSpace) - Facebook - C++
 
 
