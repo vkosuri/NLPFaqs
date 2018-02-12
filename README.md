@@ -35,16 +35,19 @@ NLP Topics
 
 ## Frameworks
 
-https://github.com/facebookresearch/fastText
-
-http://pytorch.org/
-
-https://github.com/RaRe-Technologies/gensim
+[fastText](https://github.com/facebookresearch/fastText) - Facebook - C++ | [PyTorch](http://pytorch.org/) - Facebook - Python| [GenSim](https://github.com/RaRe-Technologies/gensim) - RaRe - Python
+[Tensorflow](https://github.com/tensorflow/tensorflow) - Google - C++, Python | [ParlAI](https://github.com/facebookresearch/ParlAI) - Facebook - Python | [StarSpace](https://github.com/facebookresearch/StarSpace) - Facebook - C++
 
 
 ## Links
 
 * [Paraphrase generation](https://scholar.google.co.il/scholar?as_sdt=0%2C5&hl=en&q=%22paraphrase+generation%22+&scisbd=1)
+
+* [about arXiv](https://arxiv.org/help/general)
+
+* [arXiv Computation and Language](https://arxiv.org/list/cs.CL/recent)
+
+* [arXiv Artificial Intelligence](https://arxiv.org/list/cs.AI/recent)
 
 > Contributions are welcome.
 
