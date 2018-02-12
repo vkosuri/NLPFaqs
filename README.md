@@ -33,28 +33,32 @@ NLP Topics
 | [Boosting and Bagging algorithms](http://dni-institute.in/blogs/bagging-algorithm-concepts-with-example/), [Differnce](https://quantdare.com/what-is-the-difference-between-bagging-and-boosting/) | Text classification |
 | Supervised Latent Dirichlet Allocation (SLDA), [Source](http://www.cs.cmu.edu/~chongw/slda/)                                                                                                       | Text classification |
 
-## Frameworks
+## Popular Frameworks
 
-| Framework                                                | Organisation | License     | Language |
-|----------------------------------------------------------|--------------|-------------|----------|
-| [fastText](https://github.com/facebookresearch/fastText) | Facebook     | BSD+Patents | C++      |
-| [PyTorch](http://pytorch.org/)                           | Facebook     | BSD+Patents | Python   |
-| [GenSim](https://github.com/RaRe-Technologies/gensim)    | RaRe         | LGPL2.1     | Python   |
-| [SpaCy](https://github.com/explosion/spaCy)              | explosion    | MIT         | Python   |
-| [NLTK](https://github.com/nltk/nltk)                     | NLTK         | Apache 2.0  | Python   |
-| [TextBlob](https://github.com/sloria/TextBlob)           |              | MIT         | Python   |
-| [RASA NLU](https://github.com/RasaHQ/rasa_nlu)           |              | Apache 2.0  | Python   |
+| Framework                                                | Organisation | License     | Language    |
+|----------------------------------------------------------|--------------|-------------|-------------|
+| [fastText](https://github.com/facebookresearch/fastText) | Facebook     | BSD+Patents | C++         |
+| [Tensorflow](https://github.com/tensorflow/tensorflow)   | Google       | Apache 2.0  | C++, Python |
+| [PyTorch](http://pytorch.org/)                           | Facebook     | BSD+Patents | Python      |
+| [GenSim](https://github.com/RaRe-Technologies/gensim)    | RaRe         | LGPL2.1     | Python      |
+| [SpaCy](https://github.com/explosion/spaCy)              | explosion    | MIT         | Python      |
+| [NLTK](https://github.com/nltk/nltk)                     | NLTK         | Apache 2.0  | Python      |
+| [TextBlob](https://github.com/sloria/TextBlob)           |              | MIT         | Python      |
+| [RASA NLU](https://github.com/RasaHQ/rasa_nlu)           |              | Apache 2.0  | Python      |
 
+## Popular NLP Models
+| Model                                               | Description                                                                                                                                                                                                                                                                                                                                                                                                                          | Resources                                                                                                                | Repo                                                                                              |
+|-----------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|
+| Seq2Seq                                             | A general-purpose encoder-decoder framework for Tensorflow that can be,used for Machine Translation, Text Summarization, Conversational,Modeling, Image Captioning, and more.                                                                                                                                                                                                                                                        | https://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf                                 | https://github.com/google/seq2seq https://github.com/tensorflow/nmt                               |
+| Seq2Seq Back propagation                            | We present two approaches that use unlabeled data to improve sequence,learning with recurrent networks. The first approach is to predict what,comes next in a sequence, which is a conventional language model in,natural language processing. The second approach is to use a sequence,autoencoder, which reads the input sequence into a vector and predicts,the input sequence again                                              | http://neuralnetworksanddeeplearning.com/chap2.html https://arxiv.org/abs/1409.3215 https://arxiv.org/pdf/1511.01432.pdf | https://github.com/mnielsen/neural-networks-and-deep-learning                                     |
+| Memory end-end model                                | The architecture is a form of Memory Network but unlike the model in,that work, it is trained end-to-end, and hence requires significantly,less supervision during training, making it more generally applicable in,realistic settings.                                                                                                                                                                                              | https://arxiv.org/abs/1503.08895                                                                                         | https://github.com/facebookresearch/ParlAI https://github.com/facebook/MemNN                      |
+| Deep Reinforcement Learning for Dialogue Generation | Recent neural models of dialogue generation offer great promise for,generating responses for conversational agents, but tend to be,shortsighted, predicting utterances one at a time while ignoring their,influence on future outcomes. Modeling the future direction of a,dialogue is crucial to generating coherent, interesting dialogues, a,need which led traditional NLP models of dialogue to draw on,reinforcement learning. | https://arxiv.org/pdf/1606.01541.pdf                                                                                     | https://github.com/liuyuemaicha/Deep-Reinforcement-Learning-for-Dialogue-Generation-in-tensorflow |
 
 ## Lectures
 
 * https://github.com/oxford-cs-deepnlp-2017/lectures
 
 * https://github.com/chiphuyen/stanford-tensorflow-tutorials
-
-* https://github.com/keon/awesome-nlp
-
-* https://github.com/Kyubyong/nlp_tasks
 
 ## Links
 
@@ -65,6 +69,11 @@ NLP Topics
 * [arXiv Computation and Language](https://arxiv.org/list/cs.CL/recent)
 
 * [arXiv Artificial Intelligence](https://arxiv.org/list/cs.AI/recent)
+
+* https://github.com/keon/awesome-nlp
+
+* https://github.com/Kyubyong/nlp_tasks
+
 
 > Contributions are welcome.
 
